@@ -15,9 +15,9 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 Soy de **Cali, Colombia**, y estudio **Ingeniería de Sistemas** en la **Universidad del Valle**.  
-Mi enfoque principal está en el ecosistema de **Inteligencia Artificial**: **Machine Learning**, **Deep Learning**, **NLP** y **Ciencia de Datos**.  
+Mi enfoque principal está en el ecosistema de **Inteligencia Artificial**: **Machine Learning**, **Deep Learning**, **NLP**, **Ciencia de Datos**, etc.  
 
-Aunque mi corazón late por la IA, también me desenvuelvo bien en **desarrollo frontend** (React, TypeScript, Next.js) y valoro profundamente el **trabajo en equipo**, la **comunicación asertiva** y la **inclusión técnica y humana** en los proyectos.
+Aunque mi interes primordialmente es la IA, también me desenvuelvo bien en **desarrollo frontend** (React, TypeScript, Next.js) y valoro profundamente el **trabajo en equipo**, la **comunicación asertiva** y la **inclusión técnica y humana** en los proyectos.
 
 ---
 
