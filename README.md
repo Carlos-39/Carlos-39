@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Carlos Corrales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4361EE&center=true&vCenter=true&repeat=false&width=600&lines=Systems+Engineering+Student+@Univalle;Passionate+about+AI%2C+ML%2C+and+Data+Science;Building+intelligent+systems+with+Python%2C+TensorFlow%2C+PyTorch;Frontend+with+React%2C+TypeScript%2C+Next.js;Collaborative+developer+%7C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4361EE&center=true&vCenter=true&repeat=false&width=600&lines=Systems+Engineering+Student+@Univalle;Passionate+about+AI%2C+ML%2C+and+Data+Science;Building+intelligent+systems+with+Python%2C+TensorFlow%2C+PyTorch;Frontend+with+React%2C+TypeScript%2C+Next.js;Collaborative+developer+%7C+always+learning)](https://git.io/typing-svg)
 
 <br>
 
@@ -48,12 +48,14 @@ Aunque mi corazón late por la IA, también me desenvuelvo bien en **desarrollo 
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carlos-39&show_icons=true&theme=radical&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-39&layout=compact&langs_count=8&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carlos-39&show_icons=true&theme=catppuccin_latte&count_private=true&card_width=400" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-39&layout=compact&langs_count=8&theme=catppuccin_latte&card_width=350" />
+  </a>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Carlos-39&theme=radical)](https://git.io/streak-stats)
 
