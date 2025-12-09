@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Carlos Corrales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4361EE&center=true&vCenter=true&repeat=false&width=600&lines=Systems+Engineering+Student+@Univalle;Passionate+about+AI%2C+ML%2C+and+Data+Science;Building+intelligent+systems+with+Python%2C+TensorFlow%2C+PyTorch;Frontend+with+React%2C+TypeScript%2C+Next.js;Collaborative+developer+%7C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4361EE&center=true&vCenter=true&repeat=false&width=600&lines=Systems+Engineering+Student+@Univalle)](https://git.io/typing-svg)
 
 <br>
 
@@ -65,9 +65,12 @@ Aunque mi corazón late por la IA, también me desenvuelvo bien en **desarrollo 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-39/Carlos-39/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-39/Carlos-39/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Carlos-39/Carlos-39/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img
+      src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+      alt="snake eating my contributions"
+    />
   </picture>
 </p>
 
