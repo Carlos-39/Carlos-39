@@ -26,23 +26,18 @@ Aunque mi corazón late por la IA, también me desenvuelvo bien en **desarrollo 
 ### 🤖 Inteligencia Artificial & Ciencia de Datos
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,pandas,numpy,scikitlearn,opencv,matplotlib,fastai" />
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
 </p>
 
 ### 💻 Desarrollo Web
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,git,github,vscode" />
-  </a>
-</p>
+
 
 ### 🗄️ Bases de Datos & Otros
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,linux,docker,postman,md,figma" />
-  </a>
-</p>
+
 
 ---
 
@@ -65,11 +60,13 @@ Aunque mi corazón late por la IA, también me desenvuelvo bien en **desarrollo 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-39/Carlos-39/main/assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-39/Carlos-39/main/assets/snake.svg" />
     <img
-      src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Carlos-39/Carlos-39/main/assets/snake.svg"
       alt="snake eating my contributions"
+      width="100%"
+      style="max-width: 800px; margin: auto;"
     />
   </picture>
 </p>
