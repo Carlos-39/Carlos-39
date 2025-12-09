@@ -139,6 +139,7 @@ Aunque mi corazón late por la IA, también me desenvuelvo bien en **desarrollo 
     <img src="https://skillicons.dev/icons?i=gcp" />
   </a>
 </p>
+
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
