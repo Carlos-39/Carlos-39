@@ -59,9 +59,21 @@ Aunque mi corazón late por la IA, también me desenvuelvo bien en **desarrollo 
 
 ---
 
-## 🐍 Snake Eating My Contributions *(próximamente)*
+## 🐍 Snake Eating My Contributions
 
-> ⏳ **Próximamente**: aquí irá la animación del snake generado desde mis contribuciones.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-39/Carlos-39/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-39/Carlos-39/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Carlos-39/Carlos-39/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- GIFs decorativos -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</p>
 
 ---
 
