@@ -40,9 +40,6 @@ Aunque mi interes primordialmente es la IA, también me desenvuelvo bien en **de
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
 </p>
 
 ### 💻 Desarrollo Web
